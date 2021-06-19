@@ -203,4 +203,31 @@ p {
   }
 
   
+
+}
+#navegador ul{
+
+  list-style-type: none;
+  text-align: center;
+
+}
+  #navegador li a{
+    text-align: center;
+    padding: 2px 7px 2px 7px;
+    color: black;
+    background-color: white;
+    border: 2px solid black;
+    text-decoration: none;
+    display: inherit;
+
+  
+  }
+#navegdor li{
+  display: inline;
+  border: 1px black;
+  text-align: center;
+  
+}
+header{
+  background-color: gray;
 }
